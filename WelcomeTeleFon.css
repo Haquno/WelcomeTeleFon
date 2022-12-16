@@ -10,7 +10,6 @@ body {
 
 .conteiner {
   scroll-snap-type: y mandatory;
-  scroll-behavior: smooth;
   overflow: auto;
   height: 100vh;
 }
